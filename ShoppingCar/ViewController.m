@@ -69,7 +69,7 @@
 - (NSMutableArray *)carLists{
     
     if (_carLists == nil) {
-        NSString *path = [[NSBundle mainBundle] pathForResource:@"shopping_json.json" ofType:nil];
+        NSString *path = [[NSBundle mainBundle] pathForResource:@"shopping.json" ofType:nil];
         
         NSData *jsonData = [NSData dataWithContentsOfFile:path];
         

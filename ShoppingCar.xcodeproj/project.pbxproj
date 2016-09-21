@@ -16,8 +16,8 @@
 		652EB4BD1D8FD18C0059589C /* ShoppingCarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652EB4BC1D8FD18C0059589C /* ShoppingCarTests.m */; };
 		652EB4C81D8FD18C0059589C /* ShoppingCarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652EB4C71D8FD18C0059589C /* ShoppingCarUITests.m */; };
 		652EB4D71D8FD4790059589C /* ShoppingCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 652EB4D61D8FD4790059589C /* ShoppingCell.m */; };
+		65B5BBFB1D92268C0052BF33 /* shopping.json in Resources */ = {isa = PBXBuildFile; fileRef = 65B5BBFA1D92268C0052BF33 /* shopping.json */; };
 		65E366A51D90B82A002B8E7B /* ShoppingModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E366A41D90B82A002B8E7B /* ShoppingModel.m */; };
-		65E366A71D90BAA3002B8E7B /* shopping_json.json in Resources */ = {isa = PBXBuildFile; fileRef = 65E366A61D90BAA3002B8E7B /* shopping_json.json */; };
 		65E366AB1D90BC7B002B8E7B /* ShoppingCarHeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E366AA1D90BC7B002B8E7B /* ShoppingCarHeadView.m */; };
 		65E366AE1D90BE78002B8E7B /* ShoppingHeaderModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E366AD1D90BE78002B8E7B /* ShoppingHeaderModel.m */; };
 		65E366B11D90F8D2002B8E7B /* ShoppingCarBottomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E366B01D90F8D2002B8E7B /* ShoppingCarBottomView.m */; };
@@ -63,9 +63,9 @@
 		652EB4C91D8FD18C0059589C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		652EB4D51D8FD4790059589C /* ShoppingCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingCell.h; sourceTree = "<group>"; };
 		652EB4D61D8FD4790059589C /* ShoppingCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShoppingCell.m; sourceTree = "<group>"; };
+		65B5BBFA1D92268C0052BF33 /* shopping.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = shopping.json; sourceTree = "<group>"; };
 		65E366A31D90B82A002B8E7B /* ShoppingModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingModel.h; sourceTree = "<group>"; };
 		65E366A41D90B82A002B8E7B /* ShoppingModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShoppingModel.m; sourceTree = "<group>"; };
-		65E366A61D90BAA3002B8E7B /* shopping_json.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = shopping_json.json; path = "../../xiangmu/YiJie_1.0 3/YJClasses/YJ_05购物车/Model/shopping_json.json"; sourceTree = "<group>"; };
 		65E366A91D90BC7B002B8E7B /* ShoppingCarHeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingCarHeadView.h; sourceTree = "<group>"; };
 		65E366AA1D90BC7B002B8E7B /* ShoppingCarHeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShoppingCarHeadView.m; sourceTree = "<group>"; };
 		65E366AC1D90BE78002B8E7B /* ShoppingHeaderModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingHeaderModel.h; sourceTree = "<group>"; };
@@ -201,13 +201,13 @@
 		65E366B71D917714002B8E7B /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				65E366A61D90BAA3002B8E7B /* shopping_json.json */,
 				65E366A31D90B82A002B8E7B /* ShoppingModel.h */,
 				65E366A41D90B82A002B8E7B /* ShoppingModel.m */,
 				65E366AC1D90BE78002B8E7B /* ShoppingHeaderModel.h */,
 				65E366AD1D90BE78002B8E7B /* ShoppingHeaderModel.m */,
 				65E366B21D90F8FE002B8E7B /* ShoppingCarBottomModel.h */,
 				65E366B31D90F8FE002B8E7B /* ShoppingCarBottomModel.m */,
+				65B5BBFA1D92268C0052BF33 /* shopping.json */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -336,9 +336,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				652EB4B21D8FD18C0059589C /* LaunchScreen.storyboard in Resources */,
+				65B5BBFB1D92268C0052BF33 /* shopping.json in Resources */,
 				652EB4AF1D8FD18C0059589C /* Assets.xcassets in Resources */,
 				652EB4AD1D8FD18C0059589C /* Main.storyboard in Resources */,
-				65E366A71D90BAA3002B8E7B /* shopping_json.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

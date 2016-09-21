@@ -1,0 +1,80 @@
+{
+    "shoppingCar": [
+                    {
+                    "homeID": "井柏然的家",
+                    "goodsInfo": [
+                                  {
+                                  "goodsID": "001",
+                                  "goodsTitle": "井柏然同款香蕉大皮鞋,好看耐穿",
+                                  "goodsImageURL": "001",
+                                  "goodsColor": "红色",
+                                  "goodsSize": "42",
+                                  "goodsCount": "1",
+                                  "goodsPrice": "10000",
+                                  "isSeleted": "0",
+                                  "goodsImage": "jingboranpixie"
+                                  },
+                                  {
+                                  "goodsID": "001",
+                                  "goodsTitle": "井柏然同款T恤,好看耐穿,耐脏",
+                                  "goodsImageURL": "001",
+                                  "goodsColor": "白色",
+                                  "goodsSize": "XXL",
+                                  "goodsCount": "1",
+                                  "goodsPrice": "6000",
+                                  "isSeleted": "0",
+                                  "goodsImage": "jingborantxue"
+                                  },
+                                  {
+                                  "goodsID": "001",
+                                  "goodsTitle": "井柏然同款墨镜,闪耀众生,洞察一切",
+                                  "goodsImageURL": "001",
+                                  "goodsColor": "黑金",
+                                  "goodsSize": "Single",
+                                  "goodsCount": "1",
+                                  "goodsPrice": "6000",
+                                  "isSeleted": "0",
+                                  "goodsImage": "jingboranyanjing"
+                                  }
+                                  ]
+                    },
+                    {
+                    "homeID": "林允儿的家",
+                    "goodsInfo": [
+                                  {
+                                  "goodsID": "001",
+                                  "goodsTitle": "林允儿同款围巾,尽显无限魅力",
+                                  "goodsImageURL": "001",
+                                  "goodsColor": "红色",
+                                  "goodsSize": "Single",
+                                  "goodsCount": "1",
+                                  "goodsPrice": "6000",
+                                  "isSeleted": "0",
+                                  "goodsImage": "weijin"
+                                  },
+                                  {
+                                  "goodsID": "001",
+                                  "goodsTitle": "林允儿同款大杯子,好看耐用,水好喝",
+                                  "goodsImageURL": "001",
+                                  "goodsColor": "Single",
+                                  "goodsSize": "Single",
+                                  "goodsCount": "1",
+                                  "goodsPrice": "6000",
+                                  "isSeleted": "0",
+                                  "goodsImage": "beizi"
+                                  },
+                                  {
+                                  "goodsID": "001",
+                                  "goodsTitle": "林允儿同款大盖帽,深藏不露,拒不露出大额头",
+                                  "goodsImageURL": "001",
+                                  "goodsColor": "黑白",
+                                  "goodsSize": "XL",
+                                  "goodsCount": "1",   
+                                  "goodsPrice": "6000",
+                                  "isSeleted": "0",
+                                  "goodsImage": "maozi"
+                                  }
+                                  ]
+                    }
+                    ]
+}
