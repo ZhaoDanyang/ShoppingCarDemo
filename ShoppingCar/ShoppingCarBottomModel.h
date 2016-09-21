@@ -10,4 +10,9 @@
 
 @interface ShoppingCarBottomModel : NSObject
 
+@property (nonatomic,assign)BOOL isSelect;
+@property (nonatomic,copy) NSString * priceText;
+@property (nonatomic,assign) int counts;
+
+
 @end

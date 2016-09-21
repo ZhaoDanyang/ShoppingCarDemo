@@ -10,4 +10,8 @@
 
 @interface ShoppingHeaderModel : NSObject
 
+@property (nonatomic,assign)BOOL isSelect;
+@property(nonatomic,copy)NSString * homeID;
+@property(nonatomic,strong)NSMutableArray * goodsInfo;
+
 @end
